@@ -8,9 +8,6 @@
     padding: 92px 50px 96px 50px;
 }
 
-.header__menu {
-
-}
 
 .header__links-list {
     display: flex;
@@ -54,7 +51,6 @@
 .address {
     font-size: 18px;
     font-style: normal;
-    line-height: 1.35;
     line-height: 24.3px;
     width: 240px;
 }
@@ -77,11 +73,11 @@
 }
 
 .cover__title {
-    position: relative;
-    z-index: 2;
-    color: #fff;
     font-size: 100px;
     font-weight: 700;
+    color: #fff;
+    position: relative;
+    z-index: 2;
     line-height: 1.15;
     text-transform: uppercase;
     margin-bottom: 106px;
@@ -121,14 +117,14 @@
 .cover__description-text {
     color: #fff;
     font-size: 22px;
-    line-height: 28px ;
     word-spacing: 18px;
     text-transform: uppercase;
+    line-height: 28px;
 }
 
 .bet-button {
-    color: #fff;
     font-size: 22px;
+    color: #fff;
     text-transform: uppercase;
     border-color: #fff;
     padding: 12px 32px 11px 31px;
@@ -197,30 +193,29 @@
 }
 
 .card__title {
-    z-index: 2;
     font-size: 22px;
     font-weight: 700;
-    line-height: 1.15;
     text-decoration-line: underline;
     text-decoration-style: solid;
     text-transform: uppercase;
     text-underline-offset: 3px;
     text-decoration-thickness: 1px;
+    line-height: 1.15;
+    z-index: 2;
 }
 
 .card__text {
-    z-index: 2;
     font-size: 20px;
     line-height: 1.2;
-    
+    z-index: 2;
 }
 
 .lots__look-more-link {
     font-size: 20px;
-    margin-left: 40px;
     text-decoration-line: underline;
     text-decoration-style: solid;
     text-underline-offset: 5px;
+    margin-left: 40px;
 }
 
 /* Об аукционе */
@@ -237,7 +232,7 @@
     margin-top: 35px;
 }
 
-.about__column-right{
+.about__column-right {
     margin-top: 133px;
 }
 
@@ -264,14 +259,14 @@
 }
 
 .about__text {
+    font-size: 20px;
+    line-height: 24px;
     display: flex;
     flex-direction: column;
     gap: 24px;
-    font-size: 20px;
-    line-height: 24px;
 }
 
-.paragraph{
+.paragraph {
     margin: 0 5px 0 0;
 }
 

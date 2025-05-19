@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\fonts\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "global.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\global.css",
               "RelativeDocumentMoniker": "styles\\global.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\global.css",
               "RelativeToolTip": "styles\\global.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-15T06:39:17.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -55,17 +55,18 @@
               "RelativeToolTip": "index.html",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-14T18:29:02.629Z"
+              "WhenOpened": "2025-05-14T18:29:02.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\style.css",
               "RelativeDocumentMoniker": "styles\\style.css",
-              "ToolTip": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\style.css*",
-              "RelativeToolTip": "styles\\style.css*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\styles\\style.css",
+              "RelativeToolTip": "styles\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-14T18:33:24.683Z",
               "EditorCaption": ""
@@ -78,9 +79,10 @@
               "RelativeDocumentMoniker": "fonts\\fonts.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\ono-tebe-nado-fd\\fonts\\fonts.css",
               "RelativeToolTip": "fonts\\fonts.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-14T18:33:11.679Z"
+              "WhenOpened": "2025-05-14T18:33:11.679Z",
+              "EditorCaption": ""
             }
           ]
         }
