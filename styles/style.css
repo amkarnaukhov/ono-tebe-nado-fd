@@ -1,5 +1,6 @@
 /* Хедер */
 .header {
+    font-family: Raleway, Arial, sans-serif;
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
@@ -20,6 +21,7 @@
 }
 
 .header__link {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     text-decoration: none;
     border-bottom: 1px solid currentColor;
@@ -44,6 +46,7 @@
 }
 
 .address {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     font-style: normal;
     line-height: 24.3px;
@@ -51,13 +54,6 @@
 }
 
 /* Подзаголовок */
-.overlay {
-    position: absolute;
-    inset: 0;
-    background-color: rgba(0, 0, 0, 0.6);
-    z-index: 1;
-}
-
 .cover {
     position: relative;
     padding: 165px 50px 50px;
@@ -67,7 +63,15 @@
     z-index: 0;
 }
 
+.overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
+
 .cover__title {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 100px;
     font-weight: 700;
     line-height: 1.15;
@@ -109,6 +113,7 @@
 }
 
 .cover__description-text {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     line-height: 28px;
     color: #fff;
@@ -117,6 +122,7 @@
 }
 
 .bet-button {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     color: #fff;
     text-transform: uppercase;
@@ -132,6 +138,7 @@
 }
 
 .lots__heading {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 40px;
     text-transform: uppercase;
     margin-left: 40px;
@@ -186,6 +193,7 @@
 }
 
 .card__title {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     font-weight: 700;
     line-height: 1.15;
@@ -198,12 +206,14 @@
 }
 
 .card__text {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     line-height: 1.2;
     z-index: 2;
 }
 
 .lots__look-more-link {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     text-decoration-line: underline;
     text-decoration-style: solid;
@@ -245,12 +255,14 @@
 }
 
 .about__title {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 40px;
     text-transform: uppercase;
     margin: 3px 0 100px;
 }
 
 .about__text {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 20px;
     line-height: 24px;
     display: flex;
@@ -269,11 +281,16 @@
     padding: 0 50px 82px;
 }
 
+.footer__address {
+    justify-self: start;
+}
+
 .footer__menu {
     justify-self: center;
 }
 
 .footer__menu-list {
+    font-family: Raleway, Arial, sans-serif;
     font-size: 18px;
     text-align: center;
     list-style: none;
@@ -284,6 +301,13 @@
     text-decoration-style: solid;
     text-underline-offset: 3px;
     text-decoration-thickness: 1px;
+}
+
+.footer__link {
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
 }
 
 .footer__menu-link_active {
@@ -304,6 +328,3 @@
     width: 48px;
 }
 
-.footer__address {
-    justify-self: start;
-}
